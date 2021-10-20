@@ -1,1 +1,4 @@
-*.obj *.exe *.layout *.depend
+*.obj
+*.exe
+*.layout
+*.depend
