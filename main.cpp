@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+# Программа учебная
 int main(){
 	int a,b;
 	cin>>a;
