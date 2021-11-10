@@ -8,9 +8,6 @@ int main(){
 	cin>>b;
 	cout<<"a + b ="<<a+b<<endl;
 	cout<<"a - b ="<<a-b<<endl;
-<<<<<<< HEAD
 	cout<<"a * b ="<<a*b<<endl;
-=======
 	cout<<"a / b ="<<a/b<<endl;
->>>>>>> division
 }
